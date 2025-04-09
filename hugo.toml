@@ -75,3 +75,9 @@ home = [ "HTML", "RSS", "JSON" ]
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[build]
+  writeStats = true
+
+[build.environment]
+  HUGO_VERSION = "0.145.0"
