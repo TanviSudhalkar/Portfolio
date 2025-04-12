@@ -12,4 +12,4 @@ I am passionate about the work I am doing at my job which helps me learn more an
 
 Currently I am learning new skills and creating some project with my new+old skills to build my profile and showcase. I'm sure I'll be triumphant.
 
-I've recently moved to Canada. I live in Burlington, ON with my husband and a dog. My hobbies include dancing, singing, hiking, trekking, reading novels, etc. If I am not working on my pc or learning a new dance routine, then you'll find me in kitchen tryiung out new recipes. I consider myself as a cheerful and outgoing person.
+I've recently moved to Canada. I live in Burlington, ON with my husband and a dog. My hobbies include dancing, singing, hiking, trekking, reading novels, etc. If I am not working on my PC or learning a new dance routine, then you'll find me in kitchen trying out new recipes. I consider myself as a cheerful and outgoing person.
