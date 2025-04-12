@@ -8,7 +8,7 @@ showToc: false
 weight: 201
 --- 
 
-
+### Description
 
 - Designed, developed and maintained customized, interactive, cross-browser-compatible and user-friendly web pages
 leveraging HTML, CSS, JavaScript, Java, and jQuery, resulting in improved user engagement and seamless navigation.
