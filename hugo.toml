@@ -40,7 +40,7 @@ hideDescriptionInList = false
   [params.profileMode]
   enabled = true
   title = "Tanvi Sudhalkar"
-  subtitle = "Hi 👋 I'm Tanvi, a Software/Frontend Developer and a Dancer. Let's connect and create something awesome together!"
+  subtitle = "Hi 👋 I'm Tanvi, a Frontend Developer. Let's connect and create something awesome together!"
   imageUrl = "avatar.png"
   imageWidth = 180
   imageHeight = 200
