@@ -8,7 +8,7 @@ showToc: false
 weight: 205
 --- 
 
-### Description
+###
 
 - Assisted in the development and maintenance of responsive web pages using HTML, CSS, and JavaScript to guarantee an
 excellent user experience across all devices and customer satisfaction.

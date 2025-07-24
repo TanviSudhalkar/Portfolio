@@ -8,7 +8,7 @@ showToc: false
 weight: 202
 --- 
 
-### Description
+###
 
 - Boosted query performance by 20% by executing error-free MySQL queries, streamlining data storage and retrieval processes, and generating detailed reports.
 - Mastered the end-to-end project workflow and client deliverables for Avis Car Rental, a high-end client in the USA, to help upgrade reservation processes and streamline fleet management systems as part of the industry standard Software Development Methodology (SDLC).

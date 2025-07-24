@@ -8,7 +8,7 @@ showToc: false
 weight: 201
 --- 
 
-### Description
+###
 
 - Delivered a responsive, efficient and accessible internal portal by developing front-end components with HTML, CSS, and JavaScript, improving usability and reducing support tickets by 25%.
 - Designed and implemented a Rapid Application Development (RAD) framework, accelerating development by 40% while ensuring alignment with enterprise architecture standards.
