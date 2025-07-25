@@ -4,15 +4,13 @@
   <url>
     <loc>http://localhost:1313/experience/tcs1/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/project1/</loc>
+  </url><url>
     <loc>http://localhost:1313/experience/tcs2/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/tcs3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/experience/tcs4/</loc>
+    <loc>http://localhost:1313/experience/upwork/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/simform/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/project1/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
@@ -38,9 +36,15 @@
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/reactjs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sql/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/sqlmysql/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/tailwind-css/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url>

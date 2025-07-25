@@ -8,32 +8,32 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>IT Analyst</title>
+      <title>Senior Front End Developer</title>
       <link>http://localhost:1313/experience/tcs1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/tcs1/</guid>
       <description>Tata Consultancy Services (TCS) | India</description>
     </item>
     <item>
-      <title>Systems Engineer</title>
+      <title>Tickit</title>
+      <link>http://localhost:1313/projects/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project1/</guid>
+      <description>Project - https://tickit-app.netlify.app/</description>
+    </item>
+    <item>
+      <title>Front End Developer</title>
       <link>http://localhost:1313/experience/tcs2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/tcs2/</guid>
       <description>Tata Consultancy Services (TCS) | India</description>
     </item>
     <item>
-      <title>Assistant Systems Engineer</title>
-      <link>http://localhost:1313/experience/tcs3/</link>
+      <title>Freelance Front-End Developer</title>
+      <link>http://localhost:1313/experience/upwork/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/tcs3/</guid>
-      <description>Tata Consultancy Services (TCS) | India</description>
-    </item>
-    <item>
-      <title>Assistant Systems Engineer Trainee</title>
-      <link>http://localhost:1313/experience/tcs4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/tcs4/</guid>
-      <description>Tata Consultancy Services (TCS) | India</description>
+      <guid>http://localhost:1313/experience/upwork/</guid>
+      <description>Upwork - Remote</description>
     </item>
     <item>
       <title>Web Developer Intern</title>
@@ -41,14 +41,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/simform/</guid>
       <description>Simform Solutions | India</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/projects/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project1/</guid>
-      <description>&lt;p&gt;Projects with be uploaded soon&amp;hellip;..Stay tuned!
-Thank you.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>

@@ -8,31 +8,17 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/sqlmysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>IT Analyst</title>
+      <title>Senior Front End Developer</title>
       <link>http://localhost:1313/experience/tcs1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/tcs1/</guid>
       <description>Tata Consultancy Services (TCS) | India</description>
     </item>
     <item>
-      <title>Systems Engineer</title>
+      <title>Front End Developer</title>
       <link>http://localhost:1313/experience/tcs2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/tcs2/</guid>
-      <description>Tata Consultancy Services (TCS) | India</description>
-    </item>
-    <item>
-      <title>Assistant Systems Engineer</title>
-      <link>http://localhost:1313/experience/tcs3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/tcs3/</guid>
-      <description>Tata Consultancy Services (TCS) | India</description>
-    </item>
-    <item>
-      <title>Assistant Systems Engineer Trainee</title>
-      <link>http://localhost:1313/experience/tcs4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/tcs4/</guid>
       <description>Tata Consultancy Services (TCS) | India</description>
     </item>
     <item>

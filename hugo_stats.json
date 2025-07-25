@@ -37,7 +37,6 @@
     ],
     "classes": [
       "active",
-      "anchor",
       "breadcrumbs",
       "entry-content",
       "entry-footer",
@@ -70,7 +69,6 @@
       "top-link"
     ],
     "ids": [
-      "description",
       "menu",
       "moon",
       "sun",
